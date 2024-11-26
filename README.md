@@ -1,4 +1,4 @@
-> 🥠 AND SOPT 35th SOPKATHON (OUT OF POV) "Fortune Pi"
+> 🥠 AND SOPT 35th SOPKATHON  최우수상 🏆  " FORTUNE PI "
 
 # 🥧 Fortune Pi 🥧
 
