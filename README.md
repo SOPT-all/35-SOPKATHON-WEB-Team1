@@ -1,6 +1,12 @@
 > 🥠 AND SOPT 35th SOPKATHON  최우수상 🏆  " FORTUNE PI "
 
 # 🥧 Fortune Pi 🥧
+![Fortunepi1](https://github.com/user-attachments/assets/38cfcdbe-cf03-4b04-bd8e-f415d1c39c66)
+![Fortunepi2](https://github.com/user-attachments/assets/8d23f1d7-4501-4424-a117-2d4f13130acf)
+![Fortunepi3](https://github.com/user-attachments/assets/595d08fd-4375-44ee-b901-fad3b3d5d9d5)
+![Fortunepi4](https://github.com/user-attachments/assets/1aa24871-b38b-4b00-a6d3-c88d9deb8b1c)
+
+
 
 **Fortune Pi**는 지친 현대인들을 위해 3일에 1 번, 4주간 AI로 분석한 개인 맞춤형 사주분석을 제공합니다. <br />
 오늘 내일 모래에 대한 총운, 금전운, 주의점, 생활 가이드, 행복 팁을 통해 작은 힐링의 순간을 선사합니다. <br />
