@@ -35,7 +35,17 @@ AI 기반 개인화된 운세 분석 및 조언
 
 <br />
 
+## 📲 Tech
+<div align=center>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">        <img src="https://img.shields.io/badge/emotion-DB7093?style=for-the-badge&logo=emotion&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</div>
 
+<br />
+<br />
 ## 👥 팀원 및 역할 분담
 
 ### DEVELOPER
